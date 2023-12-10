@@ -179,7 +179,7 @@ main {
     padding: 10px;
     gap: 2%;
     border-radius: 20px;
-    background: linear-gradient(34deg, rgba(32,95,176,1) 0%, rgba(52,141,255,1) 56%, rgba(152,207,255,1) 95%),url("../images/product.png");
+    background: linear-gradient(34deg, rgb(16, 67, 157) 0%, rgb(21, 100, 236) 56%, rgba(152,207,255,1) 95%),url("../images/product.png");
     background-position: 50% 130%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -252,7 +252,7 @@ option {
     color: rgb(112, 112, 112);
 }
 
-.price p {
+.price label {
     font-size: 17px;
     font-weight: 500;
 }
@@ -278,7 +278,7 @@ option {
     padding: 10px;
     gap: 2%;
     border-radius: 20px;
-    background-image: linear-gradient(28deg, rgba(227,101,28,1) 0%, rgb(234, 192, 132) 66%, rgba(250,193,161,1) 90%),url("../images/product.png");
+    background-image: linear-gradient(28deg, rgba(227,101,28,1) 0%, #fbbc04 66%, rgb(255, 234, 172) 90%),url("../images/product.png");
     background-position: 50% 130%;
     background-repeat: no-repeat;
     background-size: cover;
