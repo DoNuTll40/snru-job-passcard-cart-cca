@@ -387,8 +387,9 @@ footer {
     display: flex;
     align-items:self-end;
     justify-content: center;
-    height: 10vh;
+    height: 5vh;
     font-size: 10px;
     font-weight: 600;
     color: rgb(114, 114, 114);
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
