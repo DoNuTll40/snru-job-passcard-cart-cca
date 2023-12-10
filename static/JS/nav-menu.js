@@ -13,3 +13,7 @@ function myFunction() {
 function myMenu(x) {
   x.classList.toggle("change");
 }
+
+document.addEventListener('contextmenu', function (e) {
+  e.preventDefault();
+});
