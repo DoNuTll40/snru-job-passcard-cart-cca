@@ -393,3 +393,7 @@ footer {
     color: rgb(114, 114, 114);
     border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
+
+footer {
+    padding-top: 15px
+}
